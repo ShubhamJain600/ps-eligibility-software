@@ -1,0 +1,9 @@
+* Open the 'PS_Eligibility_Software.bat' to start the software. It may take few seconds to load the files.
+
+* Enter the input file name (along with extension - .txt or .xls only) or enter student ID in the respective field.
+
+* The input file should contain only one student id per line and all the data excel files and input file should be present inside the 'PS_Eligibility_Software' folder.
+
+* Donot modify or remove any file/subfolder of the 'PS_Eligibility_Software' folder (except the input file which contains the list of ids to be checked).
+
+* The software will create results file. Make sure the results file is not open while running the program or the results will not be saved in the file and show an error.
